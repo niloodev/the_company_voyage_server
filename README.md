@@ -22,9 +22,9 @@
 
 ### Custom
 
-| Mod                                                                | Description                                                                       |
-| ------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| [cleyde_espacial](https://github.com/niloodev/cleyde_espacial_mod) | Core mod — space dimension, cubic planets, static fluids, biome music, custom sky |
+| Mod                                                                   | Description                                                                       |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [cleyde_espacial](https://github.com/niloodev/the_company_voyage_mod) | Core mod — space dimension, cubic planets, static fluids, biome music, custom sky |
 
 ### World Generation
 
