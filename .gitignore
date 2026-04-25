@@ -1,0 +1,37 @@
+# World data
+world/
+
+# Logs
+logs/
+*.log
+
+# Crash reports
+crash-reports/
+
+# Runtime caches
+usercache.json
+usernamecache.json
+
+# Player data (privacy)
+banned-ips.json
+banned-players.json
+ops.json
+whitelist.json
+
+# NeoForge libraries (downloaded on first run)
+libraries/
+
+# Windows metadata
+desktop.ini
+*.lnk
+*:Zone.Identifier
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Custom NPCs runtime data
+customnpcs/
+
+# Chunky progress files
+config/chunky/*.json
